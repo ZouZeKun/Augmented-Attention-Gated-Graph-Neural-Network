@@ -21,4 +21,4 @@ L-Town.inp exceeds 100Mb GitHub upload limit. If required, please contact us.
   **5. node_types: shape(number of nodes, 2)**  
 
 ***
-If you want to access the dataset or have any questions, please contact us at: [*zekunzou@zju.edu.cn*]
+If you have any questions, please contact us at: [*zekunzou@zju.edu.cn*]
