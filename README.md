@@ -1,7 +1,7 @@
 # Attention-Augmented Gated Graph Neural Network
 ## Project Overview
-This repository contains the official implementation of the paper:  
-***"Explainable Graph Neural Network for Real-time Demand States Forecasting in Water Distribution System."***
+This repository contains the official implementation of the paper: ***"Explainable Graph Neural Network for Real-time Demand States Forecasting in Water Distribution System."***  
+**Out of respect for others’ intellectual property, the code reproduced from others(Zhou et al., 2022)(Li et al., 2024) in this article will not be disclosed.**  
 
 ***
 ## Package Requirements
@@ -22,3 +22,7 @@ L-Town.inp exceeds 100Mb GitHub upload limit. If required, please contact us.
 
 ***
 If you have any questions, please contact us at: [*zekunzou@zju.edu.cn*]
+
+***
+***Zhou, X., Liu, S., Xu, W., Xin, K., Wu, Y. and Meng, F.  2022.  Bridging hydraulics and graph signal processing: A new perspective to estimate water distribution network pressures. Water Res 217, 118416.***  
+***Li, Z., Liu, H., Zhang, C. and Fu, G.  2024.  Real-time water quality prediction in water distribution networks using graph neural networks with sparse monitoring data. Water Res 250, 121018.***  
