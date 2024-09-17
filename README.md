@@ -11,7 +11,9 @@ This repository contains the official implementation of the paper: ***"Explainab
   
 ***
 ## DATASET
-L-Town.inp exceeds 100Mb GitHub upload limit. If required, please contact us.  
+### ***L-Town.inp exceeds 100Mb GitHub upload limit.***
+### ***If required, place via: [*https://www.jianguoyun.com/p/DcOz4GMQq8aMDBiq2eIFIAA*]***
+***(access code : 2qu2)***
 
 **Data Input Format：**  
   **1. water_pressure_file: shape(number of time steps, number of nodes)**  
