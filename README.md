@@ -25,6 +25,8 @@ This repository contains the official implementation of the paper: ***"Explainab
 *** If you have any questions, please contact us at: [*zekunzou@zju.edu.cn*]
 
 ### If you find this repository useful in your research, please consider citing our paper:
+
+```bibtex
 @article{Zou2024Learning
   title={Explainable Graph Neural Network for Real-time Demand States Forecasting in Water Distribution System},
   author={Zekun Zou and Zhihong Long and Zipeng Zhu and Yu Shao and Tingchao Yu},
