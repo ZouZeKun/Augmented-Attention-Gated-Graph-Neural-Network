@@ -25,6 +25,19 @@ This repository contains the official implementation of the paper: ***"Explainab
 ***
 If you have any questions, please contact us at: [*zekunzou@zju.edu.cn*]
 
+@article{
+  title={Explainable Graph Neural Network for Real-time Demand States Forecasting in Water Distribution System},
+  author={Zekun Zou and Zhihong Long and Zipeng Zhu and Yu Shao and Tingchao Yu},
+  journal={Results in Engineering},
+  volume={},
+  number={},
+  pages={106911},
+  year={2025},
+  publisher={Elsevier},
+  doi={10.1016/j.rineng.2025.106911},
+  url={https://linkinghub.elsevier.com/retrieve/pii/S259012302502969X}
+}
+
 ***
 ***Zhou, X., Liu, S., Xu, W., Xin, K., Wu, Y. and Meng, F.  2022.  Bridging hydraulics and graph signal processing: A new perspective to estimate water distribution network pressures. Water Res 217, 118416.***  
 ***Li, Z., Liu, H., Zhang, C. and Fu, G.  2024.  Real-time water quality prediction in water distribution networks using graph neural networks with sparse monitoring data. Water Res 250, 121018.***  
