@@ -22,10 +22,10 @@ This repository contains the official implementation of the paper: ***"Explainab
   **4. node_heights: shape(number of nodes, 2)**  
   **5. node_types: shape(number of nodes, 2)**  
 
-***
-If you have any questions, please contact us at: [*zekunzou@zju.edu.cn*]
+*** If you have any questions, please contact us at: [*zekunzou@zju.edu.cn*]
 
-@article{
+### If you find this repository useful in your research, please consider citing our paper:
+@article{Zou2024Learning
   title={Explainable Graph Neural Network for Real-time Demand States Forecasting in Water Distribution System},
   author={Zekun Zou and Zhihong Long and Zipeng Zhu and Yu Shao and Tingchao Yu},
   journal={Results in Engineering},
